@@ -7,8 +7,8 @@
 > This code was made by saizuo, He is my friend so its okay for me to fork his website code and use it for mine. This code was modified a bit my me, Please ask permmision to saizuo if you wanna use his website code and please give credits.
 
 # Checklist
-- [x] Making sure the code is correct
-- [x] Theres no useless files
+- [x] The code is not invalid
+- [x] There is no useless and buggy files
 - [x] None of the important files got corrupted
 
 ## Table of Contents
@@ -34,4 +34,5 @@ and work on exciting projects.
 
 ## Important Links?
 
-Links will be added soon
+https://noerror.studio/
+https://discord.gg/noerror
