@@ -4,7 +4,7 @@
 
 
 # DemonGamez 2023 Website
-> This code was made by saizuo, He is my friend so its okay for me to fork his website code and use it for mine. This code was modified a bit my me, Please ask permmision to saizuo if you wanna use his website code and please give credits.
+> This code was created by an individual named Saizuo, He is my friend therefore it is all right for me to fork his website code and utilize it for my purposes. This code was modified significantly by myself. Please ask permmision to Saizuo if you would want to utilize His website code. Remember to kindly give credits.
 
 # Checklist
 - [x] The code is not invalid
